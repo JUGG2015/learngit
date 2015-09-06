@@ -1,0 +1,3 @@
+D:\sss_work\test\tChart_m\tChart_m\obj\x86\Debug\Interop.TeeChart.dll
+D:\sss_work\test\tChart_m\tChart_m\obj\x86\Debug\AxInterop.TeeChart.dll
+D:\sss_work\test\tChart_m\tChart_m\obj\x86\Debug\tChart_m.csproj.ResolveComReference.cache
