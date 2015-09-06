@@ -1,3 +1,17 @@
 D:\sss_work\test\tChart_m\tChart_m\obj\x86\Debug\Interop.TeeChart.dll
 D:\sss_work\test\tChart_m\tChart_m\obj\x86\Debug\AxInterop.TeeChart.dll
 D:\sss_work\test\tChart_m\tChart_m\obj\x86\Debug\tChart_m.csproj.ResolveComReference.cache
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\Interop.TeeChart.dll
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\AxInterop.TeeChart.dll
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\tChart_m.csproj.ResolveComReference.cache
+D:\sss_work\git_hub\tChart_m\tChart_m\bin\Debug\tChart_m.exe
+D:\sss_work\git_hub\tChart_m\tChart_m\bin\Debug\tChart_m.pdb
+D:\sss_work\git_hub\tChart_m\tChart_m\bin\Debug\Interop.TeeChart.dll
+D:\sss_work\git_hub\tChart_m\tChart_m\bin\Debug\AxInterop.TeeChart.dll
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\tChart_m.Form1.resources
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\tChart_m.Properties.Resources.resources
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\tChart_m.exe
+D:\sss_work\git_hub\tChart_m\tChart_m\obj\x86\Debug\tChart_m.pdb

@@ -15,5 +15,11 @@ namespace tChart_m
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("hello","提示",MessageBoxButtons.OKCancel);
+        }
+
     }
 }
